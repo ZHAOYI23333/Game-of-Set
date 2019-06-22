@@ -1,0 +1,11 @@
+This is a test plan for GUI (system test).
+
+1. Open the program, no error/warning. Menu shows as expected in Mac OS and Ubuntu 16.04.
+2. One the menu page, choose each option and click "START" to see if corresponding windows open as expected.
+3. Go to the "Play with ROBOT" selection, choose each difficulty level, see if the progress bar has corresponding time period.
+4. Go to the "Play with ROBOT" selection, choose fastest mode (TYP-HD), check if game ends properly.
+5. Go to the "Play with ROBOT" selection, choose any mode, click "PALSE" button to see if progress bar stop. Click again to see if it resume.
+6. Go to the "Play with ROBOT" selection, choose any mode, click "HINT" and "TEST" to see if the cheat set is generated correctly. Choose indicated set, click submit button to see if the chosen set are removed and new card are pushed into table.
+7. Try "Play with ROBOT" and "Play With Friend": Check if score are updated as expected, if all table has a valid hint, the game ends properly.
+8. Try "Play With Friend": choose P1 SUBMIIT and P2 SUBMIT buttons to see if they work properly.
+9. Try to play any type of game and check if menu still remains functional after game ends. Check if "select difficulty" window is closed after submit.
